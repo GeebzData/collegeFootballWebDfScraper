@@ -4,7 +4,7 @@ This python script iterates through 2015-2018 Penn State Football season offensi
 https://www.sports-reference.com/cfb/schools/
 
 This file can be edited to fit different needs:
-* To change the year edit line 8 range value to be 201{range(x,y)}
+* To change the year edit lines 11 & 18 range value to be 201{range(x,y)}
 ```
 2015-2017
 for i in range(5,8):
